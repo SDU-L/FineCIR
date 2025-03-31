@@ -9,7 +9,7 @@ This is an open-source implementation of the paper "FineCIR: Explicit Parsing of
 1. Clone the repository
 
 ```sh
-git clone https://anonymous.4open.science/r/FineCIR
+git clone https://github.com/SDU-L/FineCIR
 ```
 
 2. Running Environment
